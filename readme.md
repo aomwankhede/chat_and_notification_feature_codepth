@@ -1,6 +1,7 @@
 # CodePath Assessment - Simple Chat Application
 
 **Introduction**
+
 This repository contains a simple chat application developed as part of an assessment. The application is built using Firebase and ReactJS, allowing users to engage in real-time chat.
 
 **Installation**
