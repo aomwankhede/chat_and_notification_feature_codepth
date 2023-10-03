@@ -7,7 +7,7 @@ This repository contains a simple chat application developed as part of an asses
 Follow the steps below to set up and use the application:
 
 **Step 1: Clone the Repository**
-```bash
+
 git clone https://github.com/aomwankhede/codePathAssesment
 
 Step 2: Configure Firebase
